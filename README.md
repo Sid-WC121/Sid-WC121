@@ -1,4 +1,4 @@
-
+<p align="center"><a href="https://Sid-WC121.github.io"><img width="30%"  alt="Hi it's Sid-WC121" src="./rdme-header.jpg" /></a></p
 
 **`Inventor/Engineer/Developer`**
 
