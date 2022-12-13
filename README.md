@@ -1,7 +1,7 @@
-<p align="center"><a href="https://Sid-WC121.github.io"><img width="40%"  alt="Hi it's Sid-WC121" src="./rdme-headerimg.png" /></a></p
+<p align="center"><a href="https://Sid-WC121.github.io"><img width="40%"  alt="Hi it's Sid-WC121" src="./" /></a></p
 
-<pi align="center"><a href="https://github.com/Sid-WC121/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Electronics,%20Software%20Engineer;Full-stack%20developer;UI%2FUX%20Designer;Always%20Picking%20up%20new%20skills&font=Fira%20Code&center=true&width=440&height=45&color=f000ff&vCenter=true&pause=1000&size=22" /></a>
+<pi align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=30&pause=1000&color=F000FF&width=435&lines=Electronics%2C+Software+Engineer;Full-Stack+Developer;UI%2FUX+Designer;Always++Picking+up+new+skills+" alt="Typing SVG" /></a>
 </pi>
 
 **`Inventor/Engineer/Developer`**
