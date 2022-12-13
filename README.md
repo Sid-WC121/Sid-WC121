@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Sid-WC121.github.io"><img width="30%"  alt="Hi it's Sid-WC121" src="./rdme-headerimg.png" /></a></p
+<p align="center"><a href="https://Sid-WC121.github.io"><img width="40%"  alt="Hi it's Sid-WC121" src="./rdme-headerimg.png" /></a></p
 
 <pi align="center"><a href="https://github.com/Sid-WC121/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Electronics,%20Software%20Engineer;Full-stack%20developer;UI%2FUX%20Designer;Always%20Picking%20up%20new%20skills&font=Fira%20Code&center=true&width=440&height=45&color=f000ff&vCenter=true&pause=1000&size=22" /></a>
@@ -47,6 +47,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
     </td>
   </tr>
 </table>
+
+
 
 <p align="center"> 
   View Count<br>
