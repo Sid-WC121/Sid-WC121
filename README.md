@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Sid-WC121.github.io"><img width="40%"  alt="Hi it's Sid-WC121" src="./" /></a></p
+<p align="center"><a href="https://Sid-WC121.github.io"><img width="40%"  alt="Hi it's Sid-WC121" src="./rdme-headerimg.png" /></a></p
 
 <pi align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=30&pause=1000&color=F000FF&width=435&lines=Electronics%2C+Software+Engineer;Full-Stack+Developer;UI%2FUX+Designer;Always++Picking+up+new+skills+" alt="Typing SVG" /></a>
@@ -37,6 +37,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 <br />
 
 #
+<h3 align="center"> 
+  🐱 GitHub Stats: </h3>
 <table>
   <tr>
     <td>
@@ -48,7 +50,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
   </tr>
 </table>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif" height="150" width="700"/>
+</div>
 
+<p align="center">
+    <a href="https://github.com/Sid-WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>
+    <a href="https://www.linkedin.com/in/sidharth-p-159948241/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'/></a>
+    <a href="https://www.instagram.com/sid_WC121/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'/></a>
+    <a href="https://twitter.com/Sid_WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'/></a>
+    <a href="https://codepen.io/Sid-WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'/></a>
+    <a href="https://codesandbox.io/u/Sid-WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'/></a>
+     <a href="https://www.youtube.com/channel/UCbSK5Mx7mUbdkxwUw1xW7Sg"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'/></a>
+</p>
+
+<br/>
 
 <p align="center"> 
   View Count<br>
@@ -58,3 +74,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 Sid-WC121/Sid-WC121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center"> 
+![Metrics](https://metrics.lecoq.io/Sid-WC121?template=classic&isocalendar=1&followup=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)</p>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
