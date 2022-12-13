@@ -1,5 +1,9 @@
 <p align="center"><a href="https://Sid-WC121.github.io"><img width="30%"  alt="Hi it's Sid-WC121" src="./rdme-headerimg.png" /></a></p
 
+<pi align="center"><a href="https://github.com/Sid-WC121/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Electronics,%20Software%20Engineer;Full-stack%20developer;UI%2FUX%20Designer;Always%20Picking%20up%20new%20skills&font=Fira%20Code&center=true&width=440&height=45&color=f000ff&vCenter=true&pause=1000&size=22" /></a>
+</pi>
+
 **`Inventor/Engineer/Developer`**
 
 I'm a Techie building my version of the digital world one step at a time while pursuing undergrad's in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM, Amritapuri.All coding projects are built from the ground up, from planning, designing and including artistic touches all the way to solving real-life problems with code.
@@ -7,6 +11,8 @@ I'm a Techie building my version of the digital world one step at a time while p
    <p align="left">
       <a href="https://github.com/Sid-WC121?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sid-WC121?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/Sid-WC121?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sid-WC121?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
 ### 🧰 Languages and Tools
