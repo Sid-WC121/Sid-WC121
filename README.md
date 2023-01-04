@@ -17,6 +17,7 @@ I'm a Techie building my version of the digital world one step at a time while d
    
 ### 🧰 Languages and Tools
 
+<p align="center">
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -37,9 +38,12 @@ I'm a Techie building my version of the digital world one step at a time while d
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
-<br />
+<h></h>
+</p>
 
-#
+***
+
+# 
 <h3 align="center"> 
   🐱 GitHub Stats: </h3>
 <table>
