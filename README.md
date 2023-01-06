@@ -56,6 +56,9 @@ I'm a Techie building my version of the digital world one step at a time while d
     </td>
   </tr>
 </table>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=chartreuse-dark&hide_border=false"/>
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif" height="150" width="700"/>
