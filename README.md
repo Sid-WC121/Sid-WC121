@@ -52,7 +52,7 @@ I'm a Techie building my version of the digital world one step at a time while d
       <img src="https://github-readme-stats.vercel.app/api?username=Sid-WC121&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-WC121&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-WC121&show_icons=true&locale=en&layout=compact&theme=dark" alt="alby0n" />
     </td>
   </tr>
 </table>
