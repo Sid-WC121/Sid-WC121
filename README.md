@@ -65,10 +65,10 @@ I'm a Techie building my version of the digital world one step at a time while d
 </div>
 
 <p align="center">
-    <a href="https://github.com/Sid-WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>
-    <a href="https://www.linkedin.com/in/sidharth-p-159948241/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'/></a>
+    <a href="https://github.com/Sid-WC121"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/sidharth-p-159948241/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/sid_WC121/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'/></a>
-    <a href="https://twitter.com/Sid_WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'/></a>
+    <a href="https://twitter.com/Sid_WC121"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
     <a href="https://codepen.io/Sid-WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'/></a>
     <a href="https://codesandbox.io/u/Sid-WC121"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'/></a>
      <a href="https://www.youtube.com/channel/UCbSK5Mx7mUbdkxwUw1xW7Sg"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'/></a>
