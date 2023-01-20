@@ -95,8 +95,11 @@ I'm a Techie building my version of the digital world one step at a time while d
 <br/>
 
 <p align="center"> 
+  <kbd>
   View Count<br>
+  <br>
   <img src="https://profile-counter.glitch.me/Sid-WC121/count.svg" />
+  </kbd>
 </p>
 <!---
 Sid-WC121/Sid-WC121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
