@@ -14,11 +14,11 @@ I'm a Techie building my version of the digital world one step at a time while d
    <a href="https://github.com/Sid-WC121?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sid-WC121?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<table align="center">
+<p align="center">
     <td align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=false&margin-w=4" />
     </td>   
-</table>
+</p>
 
    
 ### 🧰 Languages and Tools
