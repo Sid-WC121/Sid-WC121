@@ -78,8 +78,11 @@ I'm a Techie building my version of the digital world one step at a time while d
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=chartreuse-dark&hide_border=false"/>
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif" height="150" width="700"/>
+<div align="center">
+
+ **🐍 Activity Snake**
+![Animation](https://raw.githubusercontent.com/Sid-WC121/Sid-WC121/output/github-contribution-grid-snake-dark.svg)
+    
 </div>
 
 <p align="center">
@@ -93,6 +96,8 @@ I'm a Techie building my version of the digital world one step at a time while d
 </p>
 
 <br/>
+
+
 
 <p align="center"> 
   <kbd>
