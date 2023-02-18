@@ -24,7 +24,15 @@ I'm a Techie building my version of the digital world one step at a time while d
 ### 🧰 Languages and Tools
 <table>
 <kbd>
+    <br>
     <p align="center">
+     <kbd>
+        <kbd>Frontend</kbd>
+        <br>
+        <img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+        <img align="left" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+        <br>    
+    </kbd>
      <kbd>
         <kbd>Core</kbd>
         <br>
@@ -35,7 +43,7 @@ I'm a Techie building my version of the digital world one step at a time while d
         <br>    
     </kbd>
     <kbd>
-        <kbd>Frontend</kbd>
+        <kbd>Frontend Frameworks</kbd>
         <br>
         <img align="left" title="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"/>
         <img align="left" title="Nextjs" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
@@ -47,6 +55,7 @@ I'm a Techie building my version of the digital world one step at a time while d
         <kbd>Backend</kbd>
         <br>
         <img align="left" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <img align="left" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
         <br>    
     </kbd>
     <kbd>
@@ -56,11 +65,13 @@ I'm a Techie building my version of the digital world one step at a time while d
         <img align="left" title="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
         <br>    
     </kbd>
-    <img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="left" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="left" title="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img align="left" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-    <img align="left" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <kbd>
+        <kbd>Pakage Managers</kbd>
+        <br>
+        <img align="left" title="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+        <img align="left" title="yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+        <br>    
+    </kbd>
     </p>
 </kbd>
 </table>
@@ -79,6 +90,12 @@ I'm a Techie building my version of the digital world one step at a time while d
     <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/windows-10.png" />
     <img align="left" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <br>
+</kbd>
+<kbd>
+    <kbd>Other</kbd>
+    <br>
+    <img align="left" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    <br>    
 </kbd>
 
 
