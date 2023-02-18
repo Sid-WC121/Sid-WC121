@@ -16,7 +16,7 @@ I'm a Techie building my version of the digital world one step at a time while d
    </p>
 <p align="center">
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=false&margin-w=4" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
     </td>   
 </p>
 
