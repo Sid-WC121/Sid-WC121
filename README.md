@@ -126,13 +126,13 @@ I'm a Techie building my version of the digital world one step at a time while d
 </div>
 
 <p align="center">
-    <a href="https://github.com/Sid-WC121" ><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" height='40'/></a>
-    <a href="https://www.linkedin.com/in/sidharth-p-159948241/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" height='40'/></a>
-    <a href="https://www.instagram.com/sid_WC121/"><img src="https://img.icons8.com/bubbles/50/null/instagram-new--v2.png" alt='instagram' height='40'/></a>
-    <a href="https://twitter.com/Sid_WC121"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter" height='40'/></a>
-    <a href="https://codepen.io/Sid-WC121"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" alt='codepen' height='35'/></a>
-    <a href="https://codesandbox.io/u/Sid-WC121"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/null/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-green-tal-revivo.png" alt='codesandbox' height='40'/></a>
-     <a href="https://www.youtube.com/channel/UCbSK5Mx7mUbdkxwUw1xW7Sg"><img src="https://img.icons8.com/bubbles/50/null/youtube.png" alt='YouTube' height='40'/></a>
+    <a href="https://www.linkedin.com/in/sidharth-p-159948241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height='30'/></a>
+    <a href="https://www.instagram.com/sid_WC121/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt='instagram' height='30'/></a>
+    <a href="https://twitter.com/Sid_WC121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height='30'/></a>
+    <a href="https://codepen.io/Sid-WC121"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt='codepen' height='30'/></a>
+    <a href="https://codesandbox.io/u/Sid-WC121"><img src="https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt='codesandbox' height='30'/></a>
+    <a href="https://www.youtube.com/channel/UCbSK5Mx7mUbdkxwUw1xW7Sg"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt='YouTube' height='30'/></a>
+    <a href="https://dev.to/sid_wc121"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt='DEV' height='30'/></a>
 </p>
 
 <br/>
