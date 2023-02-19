@@ -16,7 +16,7 @@ I'm a Techie building my version of the digital world one step at a time while d
    </p>
 <p align="center">
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=true&margin-w=5&row=2&column=4" />
     </td>   
 </p>
 
@@ -107,16 +107,16 @@ I'm a Techie building my version of the digital world one step at a time while d
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sid-WC121&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sid-WC121&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-WC121&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=dark&hide_border=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-WC121&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=chartreuse-dark&hide_border=false"/>
-</p>
 
 <div align="center">
 
