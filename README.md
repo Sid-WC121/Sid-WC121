@@ -73,12 +73,6 @@ I'm a Techie building my version of the digital world one step at a time while d
         <br>    
     </kbd>
     <kbd>
-        <kbd>Other</kbd>
-        <br>
-        <img align="left" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-        <br>    
-    </kbd>
-    <kbd>
         <kbd>Tools</kbd>
         <br>
         <img align="left" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -93,6 +87,12 @@ I'm a Techie building my version of the digital world one step at a time while d
         <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/windows-10.png" />
         <img align="left" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         <br>
+    </kbd>
+    <kbd>
+        <kbd>Other</kbd>
+        <br>
+        <img align="left" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+        <br>    
     </kbd>
     </p>
 </kbd>
