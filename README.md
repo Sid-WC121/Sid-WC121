@@ -8,15 +8,15 @@
 
 #### I'm a Techie building my version of the digital world one step at a time while doing undergrad's in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM, Amritapuri.All coding projects are built from the ground up, from planning, designing and including artistic touches all the way to solving real-life problems with code.
 
-   <p align="left">
-      <a href="https://github.com/Sid-WC121?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sid-WC121?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<p align="left">
+   <a href="https://github.com/Sid-WC121?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sid-WC121?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/Sid-WC121?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sid-WC121?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
 <p align="center">
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=true&margin-w=5&row=2&column=4" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=true&margin-w=5&row=1&column=8" />
     </td>   
 </p>
 
