@@ -161,7 +161,3 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-<kbd>
-    <h3><b><em> Best in Dark Mode</em></b>:+1::two_hearts:</h3>
-</kbd>
