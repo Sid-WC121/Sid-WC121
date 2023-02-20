@@ -6,7 +6,7 @@
 
 **`Inventor/Engineer/Developer`**
 
-I'm a Techie building my version of the digital world one step at a time while doing undergrad's in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM, Amritapuri.All coding projects are built from the ground up, from planning, designing and including artistic touches all the way to solving real-life problems with code.
+#### I'm a Techie building my version of the digital world one step at a time while doing undergrad's in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM, Amritapuri.All coding projects are built from the ground up, from planning, designing and including artistic touches all the way to solving real-life problems with code.
 
    <p align="left">
       <a href="https://github.com/Sid-WC121?tab=followers">
