@@ -103,7 +103,7 @@
 
 # 
 <h3 align="center"> 
-  🐱 GitHub Stats: </h3>
+  🐱 GitHub Stats </h3>
 <table align="center">
   <tr>
     <td>
