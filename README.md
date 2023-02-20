@@ -107,13 +107,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sid-WC121&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api?username=Sid-WC121&theme=tokyonight&show_icons=true" />
     </td>
     <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=dark&hide_border=false"/>
+        <img height=195px src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=dark&hide_border=false"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-WC121&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-WC121&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
