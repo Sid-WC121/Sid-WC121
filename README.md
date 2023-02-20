@@ -141,7 +141,7 @@
 
 <p align="center"> 
   <kbd>
-  View Count<br>
+      <b>View Count</b><br>
   <br>
   <img src="https://profile-counter.glitch.me/Sid-WC121/count.svg" />
   </kbd>
