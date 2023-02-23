@@ -107,13 +107,13 @@
 <table align="center">
   <tr>
     <td>
-      <img height=195px src="https://github-readme-stats.vercel.app/api?username=Sid-WC121&theme=tokyonight&show_icons=true" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api?username=Sid-WC121&theme=shades-of-purple&show_icons=true" />
     </td>
     <td>
         <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=dark&hide_border=false"/>
     </td>
     <td>
-      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-WC121&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-WC121&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" />
     </td>
   </tr>
 </table>
