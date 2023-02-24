@@ -8,11 +8,10 @@
 
 #### I'm a Techie building my version of the digital world one step at a time while doing undergrad's in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM, Amritapuri.All coding projects are built from the ground up, from planning, designing and including artistic touches all the way to solving real-life problems with code.
 
-<p align="left">
-   <a href="https://github.com/Sid-WC121?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sid-WC121?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/Sid-WC121?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sid-WC121?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<p align="center">
+<img height=150px width=1100px src="https://github-widgetbox.vercel.app/api/profile?username=Sid-WC121&theme=dark&data=followers,repositories,stars">
+</p>
+
 </p>
 <p align="center">
     <td align="center">
@@ -147,6 +146,8 @@
   <img src="https://profile-counter.glitch.me/Sid-WC121/count.svg" />
   </kbd>
 </p>
+
+
 <!---
 Sid-WC121/Sid-WC121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
