@@ -147,6 +147,10 @@
   </kbd>
 </p>
 
+<p align="center"> 
+    <img align="center" height="125px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sid-WC121&repo=DSA&theme=dracula" />
+    <img align="center" height="125px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sid-WC121&repo=Sid-WC121.github.io&theme=dracula" />
+</p>
 
 <!---
 Sid-WC121/Sid-WC121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
