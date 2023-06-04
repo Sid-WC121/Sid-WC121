@@ -116,7 +116,6 @@
     </td>
   </tr>
 </table>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sid-WC121&theme=chartreuse-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 <div align="center">
 
