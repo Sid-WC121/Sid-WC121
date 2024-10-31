@@ -35,62 +35,60 @@
      <kbd>
         <kbd>Core</kbd>
         <br>
-         <img align="left" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-         <img align="left" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-         <img align="left" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-         <img align="left" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+         <img align="center" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+         <img align="center" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+         <img align="center" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+         <img align="center" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
         <br>    
     </kbd>
     <kbd>
         <kbd>Frontend Frameworks</kbd>
         <br>
-        <img align="left" title="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"/>
-        <img align="left" title="Nextjs" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
-        <img align="left" title="vuejs" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" />
-        <img align="left" title="svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"/>
+        <img align="center" title="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"/>
+        <img align="center" title="Nextjs" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
+        <img align="center" title="svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"/>
         <br>    
     </kbd>
     <kbd>
         <kbd>Backend</kbd>
         <br>
-        <img align="left" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <img align="left" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+        <img align="center" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
         <br>    
     </kbd>
     <kbd>
         <kbd>Databases</kbd>
         <br>
-        <img align="left" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-        <img align="left" title="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+        <img align="center" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        <img align="center" title="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
         <br>    
     </kbd>
     <kbd>
         <kbd>Pakage Managers</kbd>
         <br>
-        <img align="left" title="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-        <img align="left" title="yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+        <img align="center" title="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+        <img align="center" title="yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
         <br>    
     </kbd>
     <kbd>
         <kbd>Tools</kbd>
         <br>
-        <img align="left" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-        <img align="left" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img align="left" title="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/null/github.png" />
-        <img align="left" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+        <img align="center" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+        <img align="center" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img align="center" title="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/null/github.png" />
+        <img align="center" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
         <br>    
     </kbd>
     <kbd>
         <kbd>OS</kbd>
         <br>
-        <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/windows-10.png" />
-        <img align="left" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        <img align="center" title="Windows" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/windows-10.png" />
+        <img align="center" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         <br>
     </kbd>
     <kbd>
         <kbd>Other</kbd>
         <br>
-        <img align="left" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+        <img align="center" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
         <br>    
     </kbd>
     </p>
@@ -119,15 +117,15 @@
 
 <div align="center">
 
- **🐍 Activity Snake**
-![Animation](https://raw.githubusercontent.com/Sid-WC121/Sid-WC121/output/github-contribution-grid-snake-dark.svg)
+<!-- **🐍 Activity Snake**
+![Animation](https://raw.githubusercontent.com/Sid-WC121/Sid-WC121/output/github-contribution-grid-snake-dark.svg) --->
     
 </div>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sid-wc121/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height='30'/></a>
-    <a href="https://www.instagram.com/sid_WC121/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt='instagram' height='30'/></a>
-    <a href="https://twitter.com/Sid_WC121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height='30'/></a>
+    <!-- <a href="https://www.instagram.com/sid_WC121/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt='instagram' height='30'/></a>
+    <a href="https://twitter.com/Sid_WC121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height='30'/></a>  --->
     <a href="https://codepen.io/Sid-WC121"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt='codepen' height='30'/></a>
     <!-- <a href="https://codesandbox.io/u/Sid-WC121"><img src="https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt='codesandbox' height='30'/></a> --->
     <a href="https://www.youtube.com/channel/UCbSK5Mx7mUbdkxwUw1xW7Sg"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt='YouTube' height='30'/></a>
