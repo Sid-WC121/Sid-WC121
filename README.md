@@ -28,8 +28,8 @@
      <kbd>
         <kbd>Frontend</kbd>
         <br>
-        <img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-        <img align="left" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+        <img align="center" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+        <img align="center" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
         <br>    
     </kbd>
      <kbd>
@@ -84,12 +84,6 @@
         <img align="center" title="Windows" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/windows-10.png" />
         <img align="center" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         <br>
-    </kbd>
-    <kbd>
-        <kbd>Other</kbd>
-        <br>
-        <img align="center" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-        <br>    
     </kbd>
     </p>
 </kbd>
