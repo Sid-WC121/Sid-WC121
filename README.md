@@ -1,9 +1,5 @@
 <p align="center"><a href="https://Sid-WC121.github.io"><img width="40%"  alt="Hi it's Sid-WC121" src="./rdme-headerimg.png" /></a></p
 
-<pi align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=30&pause=1000&color=F000FF&width=435&lines=Electronics%2C+Software+Engineer;Full-Stack+Developer;UI%2FUX+Designer;Always++Picking+up+new+skills+" alt="Typing SVG" /></a>
-</pi>
-
 **`Inventor/Engineer/Developer`**
 
  <h4> I'm a Techie building my version of the digital world one step at a time while doing undergrad's in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM, Amritapuri.All coding projects are built from the ground up, from planning, designing and including artistic touches all the way to solving real-life problems with code.</h4>
@@ -20,7 +16,7 @@
 </p>
 
    
-### 🧰 Languages and Tools
+<!-- ### 🧰 Languages and Tools
 <table>
 <kbd>
     <br>
@@ -87,7 +83,7 @@
     </kbd>
     </p>
 </kbd>
-</table>
+</table> --> 
 
 
 
